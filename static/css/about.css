@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: #191919;
+}
+
+.about {
+    background-color: #5d782e;
+    text-align: center;
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    border: 5px solid  #8b008b; 
+    border-radius: 10px;
+
+}
+
+.about h4 {
+    font-family: monospace;
+    font-size: xx-large;
+
+    padding-top: -5%;
+}
+
+.about div {
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+
+
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+}
+
+.about div button {
+    font-family: monospace;
+
+    background-color: #8b008b;
+    border: #8b008b;
+    border-radius: 10px;
+}
